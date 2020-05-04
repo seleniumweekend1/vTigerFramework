@@ -8,6 +8,6 @@ public class NewTestScript1
 	@Test
 	public void newTestScript1()
 	{
-		Reporter.log("NewTestScript1")
+		Reporter.log("NewTestScript1");
 	}
 }
