@@ -10,5 +10,6 @@ public class NewTestScript2
 	public void newTestScript2()
 	{
 		System.out.println("NewTestScript2");
+		System.out.println("user2 change");
 	}
 }
